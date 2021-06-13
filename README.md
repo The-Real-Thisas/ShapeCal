@@ -57,6 +57,14 @@ pip install ShapeCal
 	- `frustrum.surfaceArea()` : Takes three floats (radiusTop, radiusBottom, height) and returns surfaceArea as a float.
 
 
+---
 
+## Update Log
 
+- 0.0.2
+	- Added Riposte framework and refactored code for ShapeCal.py
+	- Added CLI support
+
+- 0.0.1
+	- Initial
 
