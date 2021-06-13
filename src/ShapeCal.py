@@ -1,3 +1,5 @@
+import math
+
 class square:
   def area(side: float):
     square_area = side ** 2

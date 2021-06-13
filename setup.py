@@ -3,14 +3,14 @@ from setuptools import setup
 with open("README.md", "r") as fh:
     long_description = fh.read()
 setup(
-    name="shapeCal",
+    name="ShapeCal",
     version="0.0.1",
     description="A package for calculating the area/perimeter/volume of some geometric shapes.",
     py_modules=["ShapeCal"],
     package_dir={"": "src"},
     entry_points="""
         [console_scripts]
-        ShapeCal=ShapeCal:main
+        shapecal=ShapeCal:main
     """,
     classifiers=[
         "Programming Language :: Python :: 3",
