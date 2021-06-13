@@ -1,6 +1,6 @@
 # ShapeCal
-[![License](https://img.shields.io/pypi/l/ShapeCal.svg)](https://github.com/The-Real-Thisas/ShapeCal/blob/main/LICENSE)
-[![Version](https://img.shields.io/pypi/v/ShapeCal.svg)](https://pypi.org/project/ShapeCal/)
+[![License](https://img.shields.io/pypi/l/shapecal.svg)](https://github.com/The-Real-Thisas/ShapeCal/blob/main/LICENSE)
+[![Version](https://img.shields.io/pypi/v/shapecal.svg)](https://pypi.org/project/ShapeCal/)
 [![Python](https://img.shields.io/pypi/pyversions/ShapeCal.svg)](https://pypi.org/project/ShapeCal/)
 [![Code Style](https://img.shields.io/badge/codestyle-black-black.svg)](https://github.com/ambv/black)
 
