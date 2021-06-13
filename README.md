@@ -3,6 +3,7 @@
 [![Version](https://img.shields.io/pypi/v/shapecal.svg)](https://pypi.org/project/ShapeCal/)
 [![Python](https://img.shields.io/pypi/pyversions/ShapeCal.svg)](https://pypi.org/project/ShapeCal/)
 [![Code Style](https://img.shields.io/badge/codestyle-black-black.svg)](https://github.com/ambv/black)
+[![Build Status](https://dev.azure.com/Thisas/ShapeCal/_apis/build/status/The-Real-Thisas.ShapeCal?branchName=main)](https://dev.azure.com/Thisas/ShapeCal/_build/latest?definitionId=1&branchName=main)
 
 A package for calculating the area/perimeter/volume of some geometric shapes.
 
